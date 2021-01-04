@@ -313,9 +313,39 @@ html{
 *        portfolio end
 *
 *
-*        portfolio start
+*        feedback start
 *
 */
+#feedback{
+   padding-top: 70px;
+   padding-bottom: 30px;
+}
+#feedback h3{
+   font-size: 40px;
+   color: #854fee;
+   font-family: 'Oleo Script', cursive;
+}
+#feedback .h-des{
+   font-family: 'Dancing Script', cursive;
+}
+#feedback .cardbody{
+   width: 80%;
+   margin: 40px auto;
+   padding: 20px;
+   box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+}
+#feedback img{
+   width: 50%;
+   margin: 0 auto;
+}
+#feedback .name{
+   padding-top: 10px;
+   font-size: 30px;
+   font-family: 'Courgette', cursive;
+}
+#feedback .des{
+   font-family: 'Dancing Script', cursive;
+}
 /*font-family: 'Courgette', cursive;
 font-family: 'Dancing Script', cursive;
 font-family: 'Fugaz One', cursive;
