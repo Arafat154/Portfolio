@@ -400,6 +400,54 @@ html{
    color: #fff;
    border: 2px solid #fff;
 }
+/*
+*
+*        subscribe end
+*
+*
+*        follow start
+*
+*/
+#follow{
+   background-image: url('../Img/footer-bg.png');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   margin-top: 50px;
+   padding-top: 50px;
+   padding-bottom: 30px;
+}
+#follow img{
+   margin-bottom: 40px;
+}
+#follow h3 {
+   font-size: 40px;
+   color: #854fee;
+   font-family: 'Oleo Script', cursive;
+}
+#follow .margin{
+   margin-bottom: 20px;
+}
+#follow i{
+   font-size: 70px;
+   transition: 0.5s;
+}
+#follow i:hover{
+   color: #854fee;
+}
+#follow .number{
+   font-size: 35px;
+   font-family: 'Courgette', cursive;
+}
+#follow .copyright{
+   font-size: 26px;
+   font-family: 'Dancing Script', cursive;
+}
+/*
+*
+*        subscribe end
+*
+*
+*/
 /*font-family: 'Courgette', cursive;
 font-family: 'Dancing Script', cursive;
 font-family: 'Fugaz One', cursive;
