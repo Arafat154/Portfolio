@@ -1,10 +1,18 @@
+/*
+*
+*     mixitup
+*
+*/
 $(document).ready(function(){
    var mixer=mixitup('.content')
 });
 
 
-
-
+/*
+*
+*     owl-carousel
+*
+*/
 $('.owl-carousel').owlCarousel({
    loop: true,
    margin: 10,
